@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "PricePerUnit": 50,
+    "Name": "A"
+  },
+  {
+    "Id": 2,
+    "PricePerUnit": 30,
+    "Name": "B"
+  },
+  {
+    "Id": 3,
+    "PricePerUnit": 20,
+    "Name": "C"
+  },
+  {
+    "Id": 4,
+    "PricePerUnit": 15,
+    "Name": "D"
+  }
+]

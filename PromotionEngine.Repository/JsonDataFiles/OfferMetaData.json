@@ -1,0 +1,23 @@
+[
+  {
+    "Id" : 1,
+    "Units" : 3,
+    "FinalPrice" : 130,
+    "IsCombinedWithOtherProduct" : false,
+    "ProductName" : "A"
+  },
+  {
+    "Id" : 1,
+    "Units": 2,
+    "FinalPrice" : 45,
+    "IsCombinedWithOtherProduct" : false,
+    "ProductName" : "B"
+  },
+  {
+    "Id" : 1,
+    "Units" : 1,
+    "FinalPrice" : 30,
+    "IsCombinedWithOtherProduct" : true,
+    "CombinedProductNames": [ "C", "D" ]
+  }
+]
